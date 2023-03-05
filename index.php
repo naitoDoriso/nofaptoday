@@ -67,7 +67,7 @@
     </section>
     <footer class="absolute right-0 bottom-0">
         <div class="border-2 text-white opacity-0 hover:opacity-100 transition border-sky-200 rounded-lg bg-transparent w-max text-center p-2 -my-16 mx-6">
-            <h4>₢ Vinícius de Sá Ferreira</h4>
+            <h4 onclick="window.open('./db.json')">₢ Vinícius de Sá Ferreira</h4>
         </div>
     </footer>
     <script>
